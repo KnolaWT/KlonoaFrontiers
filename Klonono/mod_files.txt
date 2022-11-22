@@ -1,2 +1,3 @@
+remove raw/CommonObject.pac
 add raw/CommonObject.pac
 add mod.ini
