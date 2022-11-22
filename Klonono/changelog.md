@@ -1,2 +1,2 @@
-## Klonoa Frontiers v0.1
-- Initial Commit
+## Klonoa Frontiers v1.0
+- First Release!
