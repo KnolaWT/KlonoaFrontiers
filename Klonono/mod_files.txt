@@ -1,4 +1,6 @@
 add raw/character/big.pac
+remove raw/character/sonic.pac
+add raw/character/sonic.pac
 remove raw/text/text_caption_en.pac
 add raw/text/text_caption_en.pac
 remove raw/text/text_common_en.pac
