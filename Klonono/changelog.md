@@ -1,3 +1,5 @@
+## Klonoa Frontiers v1.04
+- Fixed Super Sonic's materials and replaced the kick and punch models
 ## Klonoa Frontiers v1.03
 - Replaced text files
 - Added Balue over Big
