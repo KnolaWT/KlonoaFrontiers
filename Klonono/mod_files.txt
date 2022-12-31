@@ -1,14 +1,3 @@
-add raw/character/big.pac
-remove raw/character/sonic.pac
-add raw/character/sonic.pac
-remove raw/text/text_caption_en.pac
-add raw/text/text_caption_en.pac
-remove raw/text/text_common_en.pac
-add raw/text/text_common_en.pac
-remove raw/text/text_minigame_en.pac
-add raw/text/text_minigame_en.pac
-remove raw/text/text_objective_en.pac
-add raw/text/text_objective_en.pac
-remove raw/text/text_skill_en.pac
-add raw/text/text_skill_en.pac
+remove raw/character/supersonic.pac
+add raw/character/supersonic.pac
 add mod.ini
