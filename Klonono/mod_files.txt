@@ -1,3 +1,2 @@
-remove raw/character/supersonic.pac
-add raw/character/supersonic.pac
+add raw/character/sage.pac
 add mod.ini
