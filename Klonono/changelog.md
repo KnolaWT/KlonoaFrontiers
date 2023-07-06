@@ -1,3 +1,5 @@
+## Klonoa Frontiers v1.11
+- Fixed crashing bug
 ## Klonoa Frontiers v1.1
 - Updated to Frontiers v2
 ## Klonoa Frontiers v1.05
