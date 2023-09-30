@@ -1,21 +1,5 @@
-remove raw/character/playercommon.pac
-remove raw/CommonObject
-remove raw/sound/voice_rangers_sonic_en.acb
-remove raw/text/text_caption_en.pac
-remove raw/text/text_common_en.pac
-remove raw/text/text_minigame_en.pac
-remove raw/text/text_skill_en.pac
-remove raw/text/text_objective_en.pac
-remove raw/character/amy.pac
-remove raw/character/sage.pac
-remove raw/character/sonic.pac
-remove raw/character/supersonic.pac
-add raw/character/amy.pac
-add raw/character/sage.pac
-add raw/character/sonic.pac
-add raw/character/supersonic.pac
-add raw/character/amyP.pac
-add raw/character/supersonic2.paca
+remove raw/character/tails.pac
+remove raw/character/tailsP.pac
 add raw/character/tails.pac
-raw/character/tailsP.pac
+add raw/character/tailsP.pac
 add mod.ini
