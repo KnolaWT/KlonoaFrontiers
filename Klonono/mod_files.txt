@@ -1,5 +1,3 @@
-remove raw/character/tails.pac
-remove raw/character/tailsP.pac
-add raw/character/tails.pac
-add raw/character/tailsP.pac
+remove raw/character/amy.pac
+add raw/character/amy.pac
 add mod.ini
