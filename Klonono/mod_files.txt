@@ -1,3 +1,5 @@
-remove raw/character/amy.pac
-add raw/character/amy.pac
+remove raw/character/supersonic2.pac
+add raw/character/supersonic2.pac
+add raw/character/knuckles.pac
+add raw/character/knucklesP.pac
 add mod.ini
